@@ -12,6 +12,13 @@ DOMAIN-SUFFIX,telegram.dog
 DOMAIN-SUFFIX,telegram.space
 DOMAIN-SUFFIX,telegramdownload.com
 DOMAIN-SUFFIX,telegraph.co.uk
+DOMAIN-SUFFIX,telega.info
+DOMAIN-SUFFIX,telega.me
+DOMAIN-SUFFIX,telegram-cdn.org
+DOMAIN-SUFFIX,telegram-porn.com
+DOMAIN-SUFFIX,telekom.com
+DOMAIN-SUFFIX,telekom.de
+DOMAIN-SUFFIX,telesec.de
 IP-CIDR,91.108.0.0/16,no-resolve
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve

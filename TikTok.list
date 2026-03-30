@@ -59,8 +59,8 @@ DOMAIN-SUFFIX,api2-21-h2.musical.ly
 DOMAIN-SUFFIX,api21-h2.tiktokv.com
 DOMAIN-SUFFIX,m.tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com.c.worldfcdn.com
-DOMAIN-SUFFIX,(^|\.)muscdn\.com$
-DOMAIN-SUFFIX,(^|\.)musical\.ly$
+URL-REGEX,(^|\.)muscdn\.com$
+URL-REGEX,(^|\.)musical\.ly$
 DOMAIN-SUFFIX,*.tiktok.com
 DOMAIN-SUFFIX,www.tiktok.com
 DOMAIN-SUFFIX,ns-440.awsdns-55.com
